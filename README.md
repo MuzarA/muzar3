@@ -64,7 +64,7 @@ This project uses JavaFX's `TableView` for displaying data and provides a clean,
   - Type: "Part-Time"
   - Salary: "25" (Hourly Rate)
   - Hours Worked: "30"
-![Снимок экрана 2024-12-01 002632](https://github.com/user-attachments/assets/d50daf98-70a9-48ef-b00b-4102b49fdad8)
+![Снимок экрана 2024-12-01 002632](2024-12-22_17-16-20.png)
 
 ---
 
@@ -74,14 +74,14 @@ This project uses JavaFX's `TableView` for displaying data and provides a clean,
   - Type: "Contractor"
   - Salary: "50" (Hourly Rate)
   - Hours Worked: "160" (Maximum Hours)
-  ![Снимок экрана 2024-12-01 002731](https://github.com/user-attachments/assets/2a33dbc6-daac-4c63-b37f-dcc2d946fd44)
+  ![Снимок экрана 2024-12-01 002731](2024-12-22_17-21-52.png)
 
 ---
 
 ### Final Table
 After adding all employees, the table will look like this:
 
-![Снимок экрана 2024-12-01 001903](https://github.com/user-attachments/assets/14331bd3-45cb-4735-bf83-fbdd3dca6518)
+![Снимок экрана 2024-12-01 001903](2024-12-22_17-22-52.png)
 
 ---
 
