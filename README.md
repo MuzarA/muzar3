@@ -53,7 +53,7 @@ This project uses JavaFX's `TableView` for displaying data and provides a clean,
   - Type: "Full-Time"
   - Salary: "75000"
   - Hours Worked: *(Leave empty for Full-Time)*
-![Снимок экрана 2024-12-01 002602](https://github.com/user-attachments/assets/d9464839-b0a8-4ecd-a561-0869c76dec02)
+![Снимок экрана 2024-12-01 002602](2024-12-22_17-15-59.png)
 
 
 ---
